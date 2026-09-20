@@ -1,0 +1,687 @@
+[
+  {
+    "id": "legacy_1",
+    "title": "مَثَلُهُمْ كَمَثَلِ الَّذِي َ ...",
+    "surah": 2,
+    "ayahStart": 17,
+    "ayahEnd": 17,
+    "image": "assets/images/examples/1.png",
+    "category": "legacy",
+    "featured": true,
+    "tags": [],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 1,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_2-17_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_2",
+    "title": "إِنَّ اللَّهَ لَا يَسْتَحْيِي ...",
+    "surah": 2,
+    "ayahStart": 26,
+    "ayahEnd": 26,
+    "image": "assets/images/examples/2.png",
+    "category": "legacy",
+    "featured": true,
+    "tags": [],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 2,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_2-26_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_3",
+    "title": "ثُمَّ قَسَتْ قُلُوبُكُم ...",
+    "surah": 2,
+    "ayahStart": 74,
+    "ayahEnd": 74,
+    "image": "assets/images/examples/3.png",
+    "category": "legacy",
+    "featured": true,
+    "tags": [],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 3,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_2-74_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_4",
+    "title": "َمَثَلُ الَّذِينَ كَفَرُوا ...",
+    "surah": 2,
+    "ayahStart": 171,
+    "ayahEnd": 171,
+    "image": "assets/images/examples/4.png",
+    "category": "legacy",
+    "featured": true,
+    "tags": [],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 4,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_2-171_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_5",
+    "title": "َّّ مَّثَلُ الَّذِينَ يُنفِقُونَ ...",
+    "surah": 2,
+    "ayahStart": 261,
+    "ayahEnd": 261,
+    "image": "assets/images/examples/5.png",
+    "category": "legacy",
+    "featured": true,
+    "tags": [],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 5,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_2-261_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_6",
+    "title": "َّّ يَاأَيُّهَا الَّذِينَ آمَنُو ...",
+    "surah": 2,
+    "ayahStart": 264,
+    "ayahEnd": 264,
+    "image": "assets/images/examples/6.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 6,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_2-264_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_7",
+    "title": ".فوَمَثَلُ الَّذِينَ يُنفِقُونَ ...",
+    "surah": 2,
+    "ayahStart": 265,
+    "ayahEnd": 265,
+    "image": "assets/images/examples/7.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 7,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_2-265_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_8",
+    "title": "أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ ...",
+    "surah": 2,
+    "ayahStart": 266,
+    "ayahEnd": 266,
+    "image": "assets/images/examples/8.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 8,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_2-266_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_9",
+    "title": "ُالَّذِينَ يَأْكُلُونَ الرِّبَا...",
+    "surah": 2,
+    "ayahStart": 275,
+    "ayahEnd": 275,
+    "image": "assets/images/examples/9.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 9,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_2-275_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_10",
+    "title": "َإِنَّ الَّذِينَ كَذَّبُوا بِآيَاتِنَا ...",
+    "surah": 7,
+    "ayahStart": 40,
+    "ayahEnd": 40,
+    "image": "assets/images/examples/10.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-A'raf",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 10,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_7-40_Al-Araf_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_11",
+    "title": "وَاتْلُ عَلَيْهِمْ نَبَأَ ...",
+    "surah": 7,
+    "ayahStart": 175,
+    "ayahEnd": 176,
+    "image": "assets/images/examples/11.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-A'raf",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 11,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_7-175_Al-Araf_Saud_Al-Shuraim.mp3",
+      "assets/audios/Quran_7-176_Al-Araf_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_12",
+    "title": "إِنَّمَا مَثَلُ الْحَيَاةِ ...",
+    "surah": 10,
+    "ayahStart": 24,
+    "ayahEnd": 24,
+    "image": "assets/images/examples/12.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Yunus",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 12,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_10-24_Yunus_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_13",
+    "title": "مَّثَلُ الَّذِينَ كَفَرُواْ ۖ ...",
+    "surah": 14,
+    "ayahStart": 18,
+    "ayahEnd": 18,
+    "image": "assets/images/examples/13.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Ibrahim",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 13,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_14-18_Ibrahim_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_14",
+    "title": "ُمَثَلًا كَلِمَةً طَيِّبَةً ...",
+    "surah": 14,
+    "ayahStart": 24,
+    "ayahEnd": 25,
+    "image": "assets/images/examples/14.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Ibrahim",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 14,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_14-24_Ibrahim_Saud_Al-Shuraim.mp3",
+      "assets/audios/Quran_14-25_Ibrahim_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_15",
+    "title": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ ...",
+    "surah": 14,
+    "ayahStart": 26,
+    "ayahEnd": 26,
+    "image": "assets/images/examples/15.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Ibrahim",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 15,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_14-26_Ibrahim_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_16",
+    "title": "ضَرَبَ اللَّهُ مَثَلًا  ...",
+    "surah": 16,
+    "ayahStart": 75,
+    "ayahEnd": 75,
+    "image": "assets/images/examples/16.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "An-Nahl",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 16,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_16-75_An-Nahl_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_17",
+    "title": "وَضَرَبَ اللَّهُ مَثَلًا   ...",
+    "surah": 16,
+    "ayahStart": 76,
+    "ayahEnd": 76,
+    "image": "assets/images/examples/17.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "An-Nahl",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 17,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_16-76_An-Nahl_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_18",
+    "title": "وَلَا تَكُونُوا كَالَّتِيْ ...",
+    "surah": 16,
+    "ayahStart": 92,
+    "ayahEnd": 92,
+    "image": "assets/images/examples/18.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "An-Nahl",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 18,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_16-92_An-Nahl_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_19",
+    "title": "وَضَرَبَ اللَّهُ مَثَلًا ...",
+    "surah": 18,
+    "ayahStart": 45,
+    "ayahEnd": 45,
+    "image": "assets/images/examples/19.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Kahf",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 19,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_18-45_Al-Kahf_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_20",
+    "title": "يَاأَيُّهَا النَّاسُ ضُرِبَ ...",
+    "surah": 22,
+    "ayahStart": 73,
+    "ayahEnd": 73,
+    "image": "assets/images/examples/20.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Hajj",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 20,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_22-73_Al-Hajj_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_21",
+    "title": "مَثَلُ الَّذِينَ اتَّخَذُوا ...",
+    "surah": 29,
+    "ayahStart": 41,
+    "ayahEnd": 41,
+    "image": "assets/images/examples/21.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Ankabut",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 21,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_29-41_Al-Ankabut_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_22",
+    "title": "ضَرَبَ لَكُم مَّثَلًا مِّنْ ...",
+    "surah": 30,
+    "ayahStart": 28,
+    "ayahEnd": 28,
+    "image": "assets/images/examples/22.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Ar-Rum",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 22,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_30-28_Ar-Rum_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_23",
+    "title": "أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ ...",
+    "surah": 47,
+    "ayahStart": 24,
+    "ayahEnd": 24,
+    "image": "assets/images/examples/23.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Muhammad",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 23,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_47-24_Muhammad_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_24",
+    "title": "ُّمُّحَمَّدٌ رَّسُولُ اللَّهِ ۚ ...",
+    "surah": 48,
+    "ayahStart": 29,
+    "ayahEnd": 29,
+    "image": "assets/images/examples/24.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Fath",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 24,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_48-29_Al-Fath_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_25",
+    "title": "ُِاعْلَمُوا أَنَّمَا الْحَيَاةُ ...",
+    "surah": 57,
+    "ayahStart": 20,
+    "ayahEnd": 20,
+    "image": "assets/images/examples/25.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Hadid",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 25,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_57-20_Al-Hadid_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "legacy_26",
+    "title": "لَوْ أَنزَلْنَا هَٰذَا الْقُرْآنَ ...",
+    "surah": 59,
+    "ayahStart": 21,
+    "ayahEnd": 21,
+    "image": "assets/images/examples/26.png",
+    "category": "legacy",
+    "featured": false,
+    "tags": [],
+    "chapterName": "Al-Hashr",
+    "audioUrl": null,
+    "hasAudio": true,
+    "legacyIndex": 26,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_59-21_Al-Hashr_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "text_2_19_20",
+    "title": "Disobedient City Will Face",
+    "surah": 2,
+    "ayahStart": 19,
+    "ayahEnd": 20,
+    "image": "assets/images/examples/30.png",
+    "category": "text_import",
+    "featured": false,
+    "tags": [
+      "rainstorm"
+    ],
+    "chapterName": "Al-Baqarah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "verified": false,
+    "visualDescription": "Dark storm → thunder → lightning → people moving only when illuminated.",
+    "audioAssets": [
+      "assets/audios/Quran_2-19_Al-Baqarah_Saud_Al-Shuraim.mp3",
+      "assets/audios/Quran_2-20_Al-Baqarah_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "text_13_17",
+    "title": "Water and foam",
+    "surah": 13,
+    "ayahStart": 17,
+    "ayahEnd": 17,
+    "image": "assets/images/examples/31.png",
+    "category": "text_import",
+    "featured": false,
+    "tags": [
+      "water and foam"
+    ],
+    "chapterName": "Ar-Ra'd",
+    "audioUrl": null,
+    "hasAudio": true,
+    "verified": false,
+    "visualDescription": "Flood → foam disappears → beneficial water remains.",
+    "audioAssets": [
+      "assets/audios/Quran_13-17_Ar-Rad_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "text_22_31",
+    "title": "Falling from sky",
+    "surah": 22,
+    "ayahStart": 31,
+    "ayahEnd": 31,
+    "image": "assets/images/examples/32.png",
+    "category": "text_import",
+    "featured": false,
+    "tags": [
+      "falling from sky"
+    ],
+    "chapterName": "Al-Hajj",
+    "audioUrl": null,
+    "hasAudio": true,
+    "verified": false,
+    "visualDescription": "Vast sky → falling figure → powerful wind/distant landscape.",
+    "audioAssets": [
+      "assets/audios/Quran_22-31_Al-Hajj_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "text_24_35",
+    "title": "Parable of Light",
+    "surah": 24,
+    "ayahStart": 35,
+    "ayahEnd": 35,
+    "image": "assets/images/examples/33.png",
+    "category": "text_import",
+    "featured": false,
+    "tags": [
+      "parable of light"
+    ],
+    "chapterName": "An-Nur",
+    "audioUrl": null,
+    "hasAudio": true,
+    "verified": false,
+    "audioAssets": [
+      "assets/audios/Quran_24-35_An-Nur_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "text_24_39",
+    "title": "Mirage",
+    "surah": 24,
+    "ayahStart": 39,
+    "ayahEnd": 39,
+    "image": "assets/images/examples/34.png",
+    "category": "text_import",
+    "featured": false,
+    "tags": [
+      "mirage"
+    ],
+    "chapterName": "An-Nur",
+    "audioUrl": null,
+    "hasAudio": true,
+    "verified": false,
+    "visualDescription": "Thirsty traveler → apparent water → empty desert.",
+    "audioAssets": [
+      "assets/audios/Quran_24-39_An-Nur_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "text_24_40",
+    "title": "Deep ocean darkness",
+    "surah": 24,
+    "ayahStart": 40,
+    "ayahEnd": 40,
+    "image": "assets/images/examples/35.png",
+    "category": "text_import",
+    "featured": false,
+    "tags": [
+      "deep ocean darkness"
+    ],
+    "chapterName": "An-Nur",
+    "audioUrl": null,
+    "hasAudio": true,
+    "verified": false,
+    "visualDescription": "Deep ocean → wave → another wave → clouds → darkness.",
+    "audioAssets": [
+      "assets/audios/Quran_24-40_An-Nur_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "text_39_29",
+    "title": "Conflicting masters",
+    "surah": 39,
+    "ayahStart": 29,
+    "ayahEnd": 29,
+    "image": "assets/images/examples/36.png",
+    "category": "text_import",
+    "featured": false,
+    "tags": [
+      "conflicting masters"
+    ],
+    "chapterName": "Az-Zumar",
+    "audioUrl": null,
+    "hasAudio": true,
+    "verified": false,
+    "visualDescription": "One servant pulled in different directions vs. another serving one master.",
+    "audioAssets": [
+      "assets/audios/Quran_39-29_Az-Zumar_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "text_48_29",
+    "title": "Growing seedling",
+    "surah": 48,
+    "ayahStart": 29,
+    "ayahEnd": 29,
+    "image": "assets/images/examples/37.png",
+    "category": "text_import",
+    "featured": false,
+    "tags": [
+      "growing seedling"
+    ],
+    "chapterName": "Al-Fath",
+    "audioUrl": null,
+    "hasAudio": true,
+    "verified": false,
+    "visualDescription": "Tiny shoot → strengthening → thick healthy crop.",
+    "audioAssets": [
+      "assets/audios/Quran_48-29_Al-Fath_Saud_Al-Shuraim.mp3"
+    ]
+  },
+  {
+    "id": "text_62_5",
+    "title": "Donkey carrying books",
+    "surah": 62,
+    "ayahStart": 5,
+    "ayahEnd": 5,
+    "image": "assets/images/examples/38.png",
+    "category": "text_import",
+    "featured": false,
+    "tags": [
+      "donkey carrying books"
+    ],
+    "chapterName": "Al-Jumu'ah",
+    "audioUrl": null,
+    "hasAudio": true,
+    "verified": false,
+    "visualDescription": "Donkey carrying many heavy books.",
+    "audioAssets": [
+      "assets/audios/Quran_62-5_Al-Jumuah_Saud_Al-Shuraim.mp3"
+    ]
+  }
+]

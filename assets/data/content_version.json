@@ -1,0 +1,18 @@
+{
+  "contentVersion": "legacy-7-plus-text-9-unverified",
+  "quranTextVersion": "legacy-7-unverified",
+  "translationVersions": {
+    "en": "legacy-7-plus-text-9-unverified",
+    "ur": "legacy-7-unverified",
+    "hi": "unbundled",
+    "id": "unbundled",
+    "tr": "legacy-7-unverified",
+    "fr": "unbundled",
+    "es": "legacy-7-unverified",
+    "de": "unbundled",
+    "bn": "unbundled",
+    "zh": "legacy-7-unverified",
+    "ja": "legacy-7-unverified",
+    "ru": "legacy-7-unverified"
+  }
+}

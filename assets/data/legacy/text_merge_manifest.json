@@ -1,0 +1,42 @@
+{
+  "sourceFile": "C:\\Users\\Supreme Traders\\Downloads\\exampleinquran.txt",
+  "sourceEntries": 29,
+  "existingExamplesBefore": 29,
+  "existingExamplesAfter": 38,
+  "added": [
+    "2:19–20",
+    "13:17",
+    "22:31",
+    "24:35",
+    "24:39",
+    "24:40",
+    "39:29",
+    "48:29",
+    "62:5"
+  ],
+  "alreadyCovered": [
+    "2:26",
+    "2:261",
+    "2:264",
+    "2:265",
+    "2:266",
+    "7:176",
+    "10:24",
+    "14:24–25",
+    "14:26",
+    "16:75",
+    "16:76",
+    "16:92",
+    "18:45",
+    "22:73",
+    "29:41",
+    "30:28",
+    "57:20",
+    "59:21"
+  ],
+  "ambiguousNotChanged": [
+    "2:17–18",
+    "18:32–44 (missing text section)"
+  ],
+  "verificationStatus": "unverified"
+}

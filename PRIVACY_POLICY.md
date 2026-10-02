@@ -3,7 +3,7 @@
 **Package:** `com.quranmicexmpale.daily`  
 **Effective date:** September 20, 2026
 
-Supreme Traders ("we", "us", or "our") provides the Quranic Examples mobile application (the "App"). This Privacy Policy explains how information is handled when you use the App.
+Muhammad Faisal Khan ("we", "us", or "our") provides the Quranic Examples mobile application (the "App"). This Privacy Policy explains how information is handled when you use the App.
 
 ## Information handled by the App
 
@@ -51,6 +51,6 @@ This policy may be updated when the App, third-party services, or legal requirem
 
 ## Contact
 
-**Developer:** Supreme Traders  
+**Developer:** Muhammad Faisal Khan  
 **App:** Quranic Examples  
-**Email:** `muhammadfaysal.khan7@gmail.com`
+**Email:** `android.nextlevel@gmail.com`
